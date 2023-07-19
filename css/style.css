@@ -6,7 +6,7 @@
 body {
   background-color: #0E0D0D; }
 
-/* TODAS LAS MODIFICACIONES SOBRE INDEX.HTML*/
+/* TODAS LAS MODIFICACIONES SOBRE INDEX.HTML */
 header {
   display: flex;
   justify-content: space-around;
@@ -64,7 +64,7 @@ h1 {
   color: whitesmoke;
   text-align: center; }
 
-/* TODAS LAS MODIFICACIONES SOBRE OFERTAS.HTML*/
+/*TODAS LAS MODIFICACIONES SOBRE OFERTAS.HTML*/
 .ofertas-body header {
   margin-bottom: auto; }
 
@@ -157,3 +157,6 @@ footer {
   .container-items {
     grid-template-columns: repeat(2, 1fr);
     background-color: gray; } }
+
+h6 {
+  color: black; }
